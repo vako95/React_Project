@@ -1,0 +1,54 @@
+header{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    background-color: rgba(50, 0, 0, 0.304);
+    text-decoration: none;
+}
+.darkbtn{
+    text-decoration: none;
+    background-color: none;
+    
+}
+
+
+.lay {
+    width: 100%;
+    height: 120vh;
+    background-size: cover;
+    background-position: center;
+    transition: background-image 0.5s ease-in-out;
+  }
+  
+
+.nav{
+    color: blueviolet;
+    margin: 5px;
+    display: flex;
+}
+
+.myStyle {
+    
+    color: rgba(234, 0, 255, 0.5);
+    margin: 5px;
+   
+    text-decoration: none;
+    font-weight: bolder;
+}
+.myColor {
+    background: red;
+    background-color: red;
+    width: 100%;
+    height: 50px;
+}
+.myColor a {
+    text-decoration: none !important;
+}
+.nav{
+    text-decoration-line: none;
+    -moz-text-decoration-line: none;
+
+}
+
